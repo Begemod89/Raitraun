@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+<title>Rait</title>
+<meta name="viewport" content="width=device-width">
+<style>
+body {zoom: 50%}
+</style>
+
+</head>
+<body bgcolor="black" text="#FFFFFF"> 
+    <iframe
+    src="https://player.twitch.tv/?channel=raitraunlive&parent=begemod89.github.io"
+    height="640"
+    width="100%"
+    allowfullscreen>
+</iframe>
+<h1>Трансляция начнётся через 10 секунд...</h1>
+<h1>Ссылка для Донатов <a href="https://www.donationalerts.com/r/raitraun" target="_blank">https://www.donationalerts.com/r/RAITRAUN</a></h1>
+</body>  
+</html> 
